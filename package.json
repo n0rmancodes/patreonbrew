@@ -1,0 +1,27 @@
+{
+  "name": "patreonbrew",
+  "version": "1.0.0",
+  "description": "patreon scraper to get posts from creators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0rmancodes/patreonbrew.git"
+  },
+  "keywords": [
+    "patreon",
+    "scraper"
+  ],
+  "author": "n0rmancodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n0rmancodes/patreonbrew/issues"
+  },
+  "homepage": "https://github.com/n0rmancodes/patreonbrew#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "got": "^11.5.2"
+  }
+}
